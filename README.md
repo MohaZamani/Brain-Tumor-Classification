@@ -68,7 +68,7 @@ The EfficientNetB0 model, combined with transfer learning, has proven to be high
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/brain-tumor-classification.git
+   git clone https://github.com/MohaZamani/Brain-Tumor-Classification.git
 2. Install the dependencies by running:
    ```bash
    pip install -r requirements.txt
